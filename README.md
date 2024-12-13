@@ -3,7 +3,7 @@
 
 This repository provides a step-by-step approach to creating a comprehensive sales analysis dashboard that visualizes key performance indicators (KPIs), sales trends, and comparative analysis using Power BI.
 
-[Dashboard]  (https://github.com/Muskaan-KH/MuskanKH_DivyaDarshini/blob/main/Sales%20Dashboard.pbix)
+[Dashboard](https://github.com/Muskaan-KH/MuskanKH_DivyaDarshini/blob/main/Sales%20Dashboard.pbix)
 
 ## Project Objectives
 
@@ -29,7 +29,7 @@ This project demonstrates how to:
 - **Sales & Profit Analysis**
 
 ## Steps Followed to Create Power BI Sales Dashboard
-1. **Gather Data**: Sample data used for dashboard creation. [Excel.] https://github.com/Muskaan-KH/MuskanKH_DivyaDarshini/blob/main/Sales%20Analysis%20Report.xlsx
+1. **Gather Data**: Sample data used for dashboard creation. [Excel](https://github.com/Muskaan-KH/MuskanKH_DivyaDarshini/blob/main/Sales%20Analysis%20Report.xlsx)
 2. **Power Query – Data Extract, Transform & Load**: Power Query Editor in Power BI was used for data cleaning and transformation making it suitable for analysis. This involved removing duplicates, handling missing values, merging datasets, and creating calculated columns.
 3. **Create a Date Table**: To work with Data Analysis Expressions (DAX) time intelligence functions, there’s a prerequisite model requirement - To have at least one [date table](https://learn.microsoft.com/en-us/power-bi/guidance/model-date-tables).
 4. **Create Data Model**: Designed a data model to represent relationships between tables, define keys, and establish hierarchies for accurate analysis and visualization.
